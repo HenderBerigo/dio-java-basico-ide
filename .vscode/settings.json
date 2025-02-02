@@ -1,0 +1,8 @@
+{
+    "java.debug.settings.console": "internalConsole",
+    "java.debug.settings.enableRunDebugCodeLens": false,
+    "java.debug.logLevel": "error",
+    "java.debug.settings.debugSupportOnDecompiledSource": "off",
+    "java.debug.settings.exceptionBreakpoint.skipClasses": [],
+    "java.help.collectErrorLog": true
+}
